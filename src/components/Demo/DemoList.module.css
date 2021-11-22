@@ -1,0 +1,21 @@
+
+  .list{
+    margin: 0;
+    text-align: center;
+  }
+
+  .list li {
+    margin: 1rem auto;
+    width: 20rem;
+    padding: 1rem;
+    background: white;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+    border-radius: 10px;
+    text-align: center;
+    list-style-type:none;
+  }
+  
+  .list h1 {
+    margin: 0;
+    text-align: center;
+  }
